@@ -1,0 +1,8 @@
+Algoritmo1
+
+Leia o primeiro número: x
+Leia o segundo número: y
+Faça a soma dos dois números lidos: x + y = z
+Escreva o resultado da soma dos dois números: z
+ 
+
