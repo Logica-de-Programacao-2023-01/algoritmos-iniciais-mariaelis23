@@ -1,0 +1,27 @@
+Algoritmo1
+
+Leia o primeiro número: x
+Leia o segundo número: y
+Faça a soma dos dois números lidos: x + y = z
+Escreva o resultado da soma dos dois números: z
+
+fim
+
+
+Algoritmo2
+
+Leia o número
+
+Se o número estiver em Celsius: C
+Faça uso do número lido na fórmula: F = C . 18000 + 3200
+Escreva o resultado de "F" obtido na equação realizada
+
+Se o número estiver em Fahrenheit: F
+Faça uso do número lido na fórmula: F = C . 18000 + 3200
+Escreva o resultado de "C" obtido na equação realizada
+
+fim
+
+
+ 
+
