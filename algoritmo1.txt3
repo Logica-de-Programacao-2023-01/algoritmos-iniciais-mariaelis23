@@ -1,0 +1,41 @@
+Algoritmo1
+
+Leia o primeiro número: x
+Leia o segundo número: y
+Faça a soma dos dois números lidos: x + y = z
+Escreva o resultado da soma dos dois números: z
+
+fim
+
+
+Algoritmo2
+
+Leia a temperatura
+
+Se a temperatura estiver em Celsius: C
+Faça uso do número lido na fórmula: F = C * 18000 + 3200
+Escreva o resultado de "F" obtido na equação realizada
+
+Se a temperatura estiver em Fahrenheit: F
+Faça uso do número lido na fórmula: F = C * 18000 + 3200
+Escreva o resultado de "C" obtido na equação realizada
+
+fim
+
+
+Algoritmo3
+
+Leia a lista de números: {a; b; c; ... y; z;}
+Some todos os números da lista entre si: {a + b + c + ... y + z}
+O resultado da soma deve ser dividido pela quantidade de elementos contidos na lista
+O resultado final será = a + b + c ... + z/ número de elementos
+Escreva o resultado
+
+fim
+
+
+
+
+
+ 
+
