@@ -1,0 +1,37 @@
+Algoritmo5
+
+Leia o elemento
+Leia a lista
+Procuro o elemento dentro da lista
+Escreva o elemento
+
+fim
+
+
+Algoritmo6
+Leia o número (n) 
+Leia a potência (p)
+Faça uso do número e da potência na fórmula: n elevado a p
+Resultado = resultado da fórmula
+Escreva o resultado
+
+fim
+
+
+Algoritmo7
+Leia o número
+Se o número for divisível somente por 1 e por ele mesmo escreva "É um número primo"
+Senão escreva "Não é primo"
+
+fim
+
+
+Algoritmo8 
+
+Leia o primeiro número (b)
+Leia o segundo número (h)
+Faça uso dos dois números lidos na fórmula:
+Resultado = b*h/2
+Escreva o resultado
+
+Obs.: Professor eu enviei o resto dos algorítmos sem ser no git bash pois eu não estava conseguid  enviar o reposítorio para cá.
