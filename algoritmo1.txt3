@@ -34,8 +34,32 @@ Escreva o resultado
 fim
 
 
+(Algoritmo 4 ao 8 no github)
 
 
 
+Algoritmo9 (juros compostos)
+
+1: leia taxa_juros
+2: leia capital
+3: leia tempo
+4: var resultado = capital * taxa_juros  
+5: para todos os valores entre 1 e tempo faça:
+6: 	resutado = resultado * taxa_juros
+7: escreva resultado
+
+
+Algoritmo10 (média ponderada)
  
+1: leia lista
+2: leia pesos
+3: var resultado = 0
+4: var somatorio_pesos = 0
+5: para cada elemento da lista faça:
+6: 	somatoria_elementos = somatorio_elementos + (elemento * peso_correspondente)
+7: para cada peso dos pesos faça:
+8: 	somatoria_pesos = somatoria_pesos + peso
+9: resultado = somatorio_elementos / somatorio_pesos
+10: escreva resultado
+
 
